@@ -4,8 +4,6 @@ A react redux login dynamic form project.
 
 Demo
 
-https://react-elder-quiz.herokuapp.com/
-
 Getting Started
 
 Installing:
@@ -47,4 +45,4 @@ This project is licensed under the MIT License - see the LICENSE.md file for det
 
 Authors
 
-Yusuf Yılmaz
+Yusuf Yılmaz"# reactdynamicloginform" 
